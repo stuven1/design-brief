@@ -2,13 +2,11 @@
 
 Today you will for the first time work on a real design brief, your goal for today is to please the designer by copying the design as close as you can.
 
-Also, remember that designers are picky, we expect all distances, sizes, colors and fonts to be as in the brief.
+Also, remember that designers are picky, we expect sizes, colors, and fonts to be as in the brief.
 
 ####  Design
-![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Desktop_1440x1024px.png)
 
-####  Margins & Paddings
-![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Desktop_1440x1024px_guides.png)
+![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Desktop_1440x1024px.png)
 
 #### Fonts & Sizes
 
@@ -76,7 +74,3 @@ Desktop: 16/12px, tablet: 14/16(H2)/12px, mobile: 14/12px
 
 ####  Mobile Breakpoint (0 -> 600px)
 ![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Mobile_320x1024px.png)
-
-![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Tablet_768x1024px_guides.png)
-
-![Design](https://github.com/Technigo/assignment-design-brief/blob/master/design/Mobile_320x1024px_guides.png)
