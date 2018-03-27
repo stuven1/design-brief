@@ -3,22 +3,35 @@
 }
 
 body {
-  margin:0px 220px;
+  margin: 0px 220px 0px 220px;
   padding: 0px;
-   font-family: sans-serif;
+  font-family: sans-serif;
+}
+
+p {
+  font-family: 'Lucida Grande';
+  line-height: 16px;
+}
+
+h1 {
+  font-family: 'Lora';
+  font-size: 42px;
 }
 
 header {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 75px;
   border-bottom: 1px solid lightgrey;
   margin-top: 30px;
+  flex-wrap: wrap;
+
 }
 
-.header p {
+header p {
   font-size: 12px;
+  margin: 2px;
 }
 
 h1 {
@@ -31,12 +44,7 @@ h2 {
   font-weight: bold;
   font-size: 16px;
 }
-
-p {
-  font-family: 'Lucida Grande';
-  line-height: 16px;
-}
-
+/* all the buttons */
 .green-button {
   background: #2e945b;
   border-radius: 10px;
@@ -102,7 +110,7 @@ p {
   width: 100%;
 }
 
-.imge {
+.image {
   width: 48%;
   height: auto;
   object-fit: cover;
